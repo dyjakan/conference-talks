@@ -4,8 +4,8 @@ Repository for a lecture I gave at various conferences between 2018 and 2019. �
 
 # Recordings
 
-* 🇵🇱 Boiling Frogs 2019 - Andrzej Dyjak - Zero Trust Theorem ➡️ https://www.youtube.com/watch?v=g0PdMFI1WTk
-* 🇵🇱 4Developers Wrocław 2018: Zero Trust Theorem, Andrzej Dyjak ➡️ https://www.youtube.com/watch?v=3U1iA_4E_-U
+* 🇵🇱 Boiling Frogs Wrocław 2019 ➡️ https://www.youtube.com/watch?v=g0PdMFI1WTk
+* 🇵🇱 4Developers Wrocław 2018 ➡️ https://www.youtube.com/watch?v=3U1iA_4E_-U
 
 # References
 
