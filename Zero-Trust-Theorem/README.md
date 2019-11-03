@@ -7,6 +7,15 @@ Repository for a lecture I gave at various conferences between 2018 and 2019. �
 * 🇵🇱 Boiling Frogs Wrocław 2019 ➡️ https://www.youtube.com/watch?v=g0PdMFI1WTk
 * 🇵🇱 4Developers Wrocław 2018 ➡️ https://www.youtube.com/watch?v=3U1iA_4E_-U
 
+# Podcast
+
+Due to time constraints imposed by the conferences, I was never able to cover all the material in the way I wanted.
+
+In 2019 I started a podcast 🎤 [Cyberiada](https://cyberiada.io) and I was finally able to talk about Zero Trust Theorem as much as I felt is needed.
+
+* 🇵🇱 [Part 1](https://cyberiada.io/3) covering web applications, external modules, interpreters, and compilers
+* 🇵🇱 Part 2 - WIP
+
 # References
 
 Below you can find references to all research presented within the lecture. Enjoy! ✌️
