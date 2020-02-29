@@ -14,7 +14,8 @@ Due to time constraints imposed by the conferences, I was never able to cover al
 In 2019 I started a podcast 🎤 [Cyberiada](https://cyberiada.io) and I was finally able to talk about Zero Trust Theorem as much as I felt is needed.
 
 * 🇵🇱 [Part 1](https://cyberiada.io/3) covering web applications, external modules, interpreters, and compilers
-* 🇵🇱 Part 2 - WIP
+* 🇵🇱 [Part 2](https://cyberiada.io/4) covering operating systems, hypervisors, and hardware
+* 🇵🇱 Part 3 in WIP stage - Q&A
 
 # References
 
